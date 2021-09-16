@@ -2,7 +2,7 @@
   <h4>KEC CYBER SECURITY WORKSHOP<h4>
 
 
-General Wargames
+General Wargames / CTF's
 
     PicoCTF : https://picoctf.org/
     TryHackMe : https://tryhackme.com/
@@ -10,6 +10,7 @@ General Wargames
     VulnHub : https://www.vulnhub.com/
     CTFLearn : https://ctflearn.com/
     OverTheWire : https://overthewire.org/wargames/
+    CtfTime : https://ctftime.org/
 
 Tools
 Binary Exploitation
