@@ -51,4 +51,20 @@ Reverse Engineering
 
     Micro Corruption : https://microcorruption.com/
 
-
+Should be familiar with :
+  
+    NMAP
+    WIRESHARK
+    SQLMAP
+    JohnTheRipper
+    Metasploit Framework
+    Aircrack-ng
+    SPLUNK
+ 
+CVE
+  
+    Mitre.org : https://cve.mitre.org/cve/search_cve_list.html
+    
+Exploi - Database :
+  
+    Exploit - DB : https://www.exploit-db.com/
