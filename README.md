@@ -65,6 +65,6 @@ CVE
   
     Mitre.org : https://cve.mitre.org/cve/search_cve_list.html
     
-Exploi - Database :
+Exploit - Database :
   
     Exploit - DB : https://www.exploit-db.com/
