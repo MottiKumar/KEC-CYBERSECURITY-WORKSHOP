@@ -9,6 +9,7 @@ General Wargames
     HackTheBox : https://www.hackthebox.eu/
     VulnHub : https://www.vulnhub.com/
     CTFLearn : https://ctflearn.com/
+    OverTheWire : https://overthewire.org/wargames/
 
 Tools
 Binary Exploitation
@@ -34,4 +35,19 @@ Browser Exploitation
     UFSIT Browser Exploitation : https://www.youtube.com/watch?v=-bfO-b5gzHc
     Beef : https://beefproject.com/
   
+Web Application 
   
+    Burpsuite : https://portswigger.net/burp
+    Portswigger Academy : https://portswigger.net/web-security
+    OverTheWire - Natas : https://overthewire.org/wargames/natas/
+  
+
+Malware Analysis
+
+    Blue Team Labs Online : https://blueteamlabs.online/
+
+Reverse Engineering
+
+    Micro Corruption : https://microcorruption.com/
+
+
