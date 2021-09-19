@@ -58,6 +58,7 @@ Should be familiar with :
     SQLMAP
     JohnTheRipper
     Metasploit Framework
+    Armitage
     Aircrack-ng
     SPLUNK
  
